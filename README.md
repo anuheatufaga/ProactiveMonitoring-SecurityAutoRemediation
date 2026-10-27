@@ -30,8 +30,9 @@ The overall goal is to gain hands-on experience with cloud infrastructure monito
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Security AutoRemediation"/>
+Step 1: <br/>
+text description <br/>
+<img src="screenshots/Screenshot 2026-10-01 171822.png" height="80%" width="80%" alt="Security AutoRemediation"/>
 <br />
 <br />
 Select the disk:  <br/>
